@@ -1,0 +1,1 @@
+Набор средств Visual Studio для Office (VSTO)
